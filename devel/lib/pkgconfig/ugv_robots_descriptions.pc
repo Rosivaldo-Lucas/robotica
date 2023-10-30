@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_robots_descriptions/lib/pkgconfig/ugv_robots_descriptions.pc

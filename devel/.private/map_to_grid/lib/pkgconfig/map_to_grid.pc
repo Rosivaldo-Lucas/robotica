@@ -1,0 +1,8 @@
+prefix=/home/rosivaldo/Documents/robotica_ws/devel/.private/map_to_grid
+
+Name: map_to_grid
+Description: Description of map_to_grid
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

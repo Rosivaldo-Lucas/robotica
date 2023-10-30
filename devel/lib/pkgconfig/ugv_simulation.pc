@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_simulation/lib/pkgconfig/ugv_simulation.pc

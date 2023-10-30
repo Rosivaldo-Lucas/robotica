@@ -1,0 +1,5 @@
+ugv_system/ugv_robots_descriptions
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_robots_descriptions/cmake.lock /home/rosivaldo/Documents/robotica_ws/devel/./cmake.lock
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_robots_descriptions/share/ugv_robots_descriptions/cmake/ugv_robots_descriptionsConfig-version.cmake /home/rosivaldo/Documents/robotica_ws/devel/share/ugv_robots_descriptions/cmake/ugv_robots_descriptionsConfig-version.cmake
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_robots_descriptions/share/ugv_robots_descriptions/cmake/ugv_robots_descriptionsConfig.cmake /home/rosivaldo/Documents/robotica_ws/devel/share/ugv_robots_descriptions/cmake/ugv_robots_descriptionsConfig.cmake
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_robots_descriptions/lib/pkgconfig/ugv_robots_descriptions.pc /home/rosivaldo/Documents/robotica_ws/devel/lib/pkgconfig/ugv_robots_descriptions.pc

@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/map_to_grid/lib/pkgconfig/map_to_grid.pc

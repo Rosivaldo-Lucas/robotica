@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/lib/pkgconfig/trajectory_planner.pc

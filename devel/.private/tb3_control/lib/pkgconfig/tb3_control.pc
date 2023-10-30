@@ -1,0 +1,8 @@
+prefix=/home/rosivaldo/Documents/robotica_ws/devel/.private/tb3_control
+
+Name: tb3_control
+Description: Description of tb3_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

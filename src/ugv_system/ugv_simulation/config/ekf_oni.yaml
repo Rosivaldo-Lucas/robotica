@@ -1,0 +1,22 @@
+frequency: 30
+two_d_mode: true
+publish_acceleration: false
+publish_tf: true
+map_frame: map
+odom_frame: oni/odom           
+base_link_frame: base_link
+world_frame: oni/odom
+
+odom0: "oni/odom"
+odom0_config:       [true,  true, false,
+                    false, false, true,
+                    false, false, false,
+                    false, false, false,
+                    false, false, false]
+
+imu0: "oni/imu/data"
+imu0_config:    [false, false, false,
+                false, false, true,
+                true, true, false,
+                false, false, true,
+                false, false, false]

@@ -1,0 +1,8 @@
+prefix=/home/rosivaldo/Documents/robotica_ws/install
+
+Name: ugv_robots_descriptions
+Description: Description of ugv_robots_descriptions
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

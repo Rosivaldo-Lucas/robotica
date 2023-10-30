@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_robots_descriptions/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_simulation
+
+Name: ugv_simulation
+Description: Description of ugv_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/tb3_control/lib/pkgconfig/tb3_control.pc

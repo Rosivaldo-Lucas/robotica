@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target trajectory_planner_cpp[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/trajectory_planner_cpp.dir/src/main.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/trajectory_planner_cpp.dir/src/grid.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/lib/trajectory_planner/trajectory_planner_cpp[0m
+[100%] Built target trajectory_planner_cpp

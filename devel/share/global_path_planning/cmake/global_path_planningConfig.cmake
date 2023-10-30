@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/global_path_planning/share/global_path_planning/cmake/global_path_planningConfig.cmake

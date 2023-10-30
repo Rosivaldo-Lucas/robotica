@@ -1,0 +1,1 @@
+/home/rosivaldo/Documents/robotica_ws/devel/.private/global_path_planning/lib/pkgconfig/global_path_planning.pc

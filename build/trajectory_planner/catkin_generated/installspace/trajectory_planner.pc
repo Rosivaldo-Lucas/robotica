@@ -1,0 +1,8 @@
+prefix=/home/rosivaldo/Documents/robotica_ws/install
+
+Name: trajectory_planner
+Description: Description of trajectory_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

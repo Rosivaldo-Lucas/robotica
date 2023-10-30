@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rosivaldo/Documents/robotica_ws/devel/.private/map_to_grid/setup.sh

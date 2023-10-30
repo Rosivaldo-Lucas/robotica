@@ -1,0 +1,8 @@
+prefix=/home/rosivaldo/Documents/robotica_ws/devel/.private/global_path_planning
+
+Name: global_path_planning
+Description: Description of global_path_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

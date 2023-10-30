@@ -1,0 +1,6 @@
+ugv_system/trajectory_planner
+/home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/cmake.lock /home/rosivaldo/Documents/robotica_ws/devel/./cmake.lock
+/home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/share/trajectory_planner/cmake/trajectory_plannerConfig.cmake /home/rosivaldo/Documents/robotica_ws/devel/share/trajectory_planner/cmake/trajectory_plannerConfig.cmake
+/home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/share/trajectory_planner/cmake/trajectory_plannerConfig-version.cmake /home/rosivaldo/Documents/robotica_ws/devel/share/trajectory_planner/cmake/trajectory_plannerConfig-version.cmake
+/home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/lib/trajectory_planner/trajectory_planner_cpp /home/rosivaldo/Documents/robotica_ws/devel/lib/trajectory_planner/trajectory_planner_cpp
+/home/rosivaldo/Documents/robotica_ws/devel/.private/trajectory_planner/lib/pkgconfig/trajectory_planner.pc /home/rosivaldo/Documents/robotica_ws/devel/lib/pkgconfig/trajectory_planner.pc

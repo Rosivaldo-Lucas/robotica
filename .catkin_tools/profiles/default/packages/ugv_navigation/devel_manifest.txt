@@ -1,0 +1,5 @@
+ugv_system/ugv_navigation
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_navigation/cmake.lock /home/rosivaldo/Documents/robotica_ws/devel/./cmake.lock
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_navigation/share/ugv_navigation/cmake/ugv_navigationConfig.cmake /home/rosivaldo/Documents/robotica_ws/devel/share/ugv_navigation/cmake/ugv_navigationConfig.cmake
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_navigation/share/ugv_navigation/cmake/ugv_navigationConfig-version.cmake /home/rosivaldo/Documents/robotica_ws/devel/share/ugv_navigation/cmake/ugv_navigationConfig-version.cmake
+/home/rosivaldo/Documents/robotica_ws/devel/.private/ugv_navigation/lib/pkgconfig/ugv_navigation.pc /home/rosivaldo/Documents/robotica_ws/devel/lib/pkgconfig/ugv_navigation.pc
